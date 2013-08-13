@@ -4,5 +4,5 @@
 main()
 {
 	printf("Hello FIBA world\n");
-	exit();
+	printf("Hello randy %d\n",i);
 }
