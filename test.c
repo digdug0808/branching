@@ -1,7 +1,8 @@
 #include "stdio.h"
 #include "math.h"
-
+#include "err.h"
 main()
 {
-	printf("Hello world\n");
+	printf("Hello FIBA world\n");
+	exit();
 }
