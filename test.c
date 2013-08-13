@@ -12,3 +12,9 @@ string argv[];
 	printf("Hello FIBA world\n");
 	printf("Hello randy %d\n",i);
 }
+
+printf(str)
+string str[];
+{
+	display message;
+}
