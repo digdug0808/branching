@@ -1,7 +1,9 @@
 #include "stdio.h"
 #include "err.h"
-#include "math.h"
-main()
+
+main(argc,argv)
+int argc;
+string argv[];
 {
 	printf("Hello FIBA world\n");
 	exit();
