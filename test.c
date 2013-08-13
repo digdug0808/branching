@@ -2,6 +2,6 @@
 
 main()
 {
-	printf("Hello world\n");
+	printf("Hello FIBA world\n");
 	exit();
 }
